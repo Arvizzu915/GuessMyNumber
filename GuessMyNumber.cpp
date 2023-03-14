@@ -30,7 +30,7 @@ int main()
             cout << "Muy Bajo\n\n";
         }
         else {
-            cout << "Excelente lo hiciste en -- " << tries << "-- intentos";
+            cout << "joder que crack, lo hiciste en -- " << tries << "-- intentos";
 
         }
     } while (guess != secretNumber);
